@@ -1,0 +1,3001 @@
+{
+  "version": 2,
+  "processed": {
+    "https://doi.org/10.1145/3539597": {
+      "status": "success",
+      "source": "openalex",
+      "chars": 1764,
+      "ts": "2026-05-24T11:27:37"
+    },
+    "https://doi.org/10.1145/3539597.3572331": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1197,
+      "ts": "2026-05-24T11:27:39"
+    },
+    "https://doi.org/10.1145/3539597.3572332": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2364,
+      "ts": "2026-05-24T11:27:42"
+    },
+    "https://doi.org/10.1145/3539597.3572333": {
+      "status": "failed",
+      "attempts": 1,
+      "ts": "2026-05-24T11:29:20"
+    },
+    "https://doi.org/10.1145/3539597.3570442": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1436,
+      "ts": "2026-05-24T11:29:21"
+    },
+    "https://doi.org/10.1145/3539597.3570473": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1457,
+      "ts": "2026-05-24T11:29:23"
+    },
+    "https://doi.org/10.1145/3539597.3570474": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1735,
+      "ts": "2026-05-24T11:29:26"
+    },
+    "https://doi.org/10.1145/3539597.3570487": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1225,
+      "ts": "2026-05-24T11:29:28"
+    },
+    "https://doi.org/10.1145/3539597.3570430": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1527,
+      "ts": "2026-05-24T11:29:30"
+    },
+    "https://doi.org/10.1145/3539597.3570478": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1254,
+      "ts": "2026-05-24T11:29:34"
+    },
+    "https://doi.org/10.1145/3539597.3570451": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1240,
+      "ts": "2026-05-24T11:29:36"
+    },
+    "https://doi.org/10.1145/3539597.3570400": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1931,
+      "ts": "2026-05-24T11:29:39"
+    },
+    "https://doi.org/10.1145/3539597.3570366": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1514,
+      "ts": "2026-05-24T11:29:41"
+    },
+    "https://doi.org/10.1145/3539597.3570417": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1593,
+      "ts": "2026-05-24T11:29:45"
+    },
+    "https://doi.org/10.1145/3539597.3570419": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1317,
+      "ts": "2026-05-24T11:29:48"
+    },
+    "https://doi.org/10.1145/3539597.3570424": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1601,
+      "ts": "2026-05-24T11:29:52"
+    },
+    "https://doi.org/10.1145/3539597.3570467": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1083,
+      "ts": "2026-05-24T11:29:56"
+    },
+    "https://doi.org/10.1145/3539597.3570480": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1729,
+      "ts": "2026-05-24T11:29:59"
+    },
+    "https://doi.org/10.1145/3539597.3570457": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1306,
+      "ts": "2026-05-24T11:30:01"
+    },
+    "https://doi.org/10.1145/3539597.3570376": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1360,
+      "ts": "2026-05-24T11:30:04"
+    },
+    "https://doi.org/10.1145/3539597.3570449": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1492,
+      "ts": "2026-05-24T11:30:07"
+    },
+    "https://doi.org/10.1145/3539597.3570455": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1827,
+      "ts": "2026-05-24T11:30:09"
+    },
+    "https://doi.org/10.1145/3539597.3570445": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1649,
+      "ts": "2026-05-24T11:30:11"
+    },
+    "https://doi.org/10.1145/3539597.3570401": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1273,
+      "ts": "2026-05-24T11:30:14"
+    },
+    "https://doi.org/10.1145/3539597.3570486": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1108,
+      "ts": "2026-05-24T11:30:16"
+    },
+    "https://doi.org/10.1145/3539597.3570386": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1779,
+      "ts": "2026-05-24T11:30:19"
+    },
+    "https://doi.org/10.1145/3539597.3570374": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1738,
+      "ts": "2026-05-24T11:30:22"
+    },
+    "https://doi.org/10.1145/3539597.3570434": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1074,
+      "ts": "2026-05-24T11:30:25"
+    },
+    "https://doi.org/10.1145/3539597.3570443": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1437,
+      "ts": "2026-05-24T11:30:27"
+    },
+    "https://doi.org/10.1145/3539597.3570426": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1424,
+      "ts": "2026-05-24T11:30:31"
+    },
+    "https://doi.org/10.1145/3539597.3570461": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1649,
+      "ts": "2026-05-24T11:30:34"
+    },
+    "https://doi.org/10.1145/3539597.3570464": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1591,
+      "ts": "2026-05-24T11:30:36"
+    },
+    "https://doi.org/10.1145/3539597.3570392": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1485,
+      "ts": "2026-05-24T11:30:39"
+    },
+    "https://doi.org/10.1145/3539597.3570371": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1365,
+      "ts": "2026-05-24T11:30:43"
+    },
+    "https://doi.org/10.1145/3539597.3570435": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1558,
+      "ts": "2026-05-24T11:30:46"
+    },
+    "https://doi.org/10.1145/3539597.3570439": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1435,
+      "ts": "2026-05-24T11:30:48"
+    },
+    "https://doi.org/10.1145/3539597.3570396": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1797,
+      "ts": "2026-05-24T11:30:51"
+    },
+    "https://doi.org/10.1145/3539597.3570367": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1552,
+      "ts": "2026-05-24T11:30:53"
+    },
+    "https://doi.org/10.1145/3539597.3570438": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1019,
+      "ts": "2026-05-24T11:30:57"
+    },
+    "https://doi.org/10.1145/3539597.3570453": {
+      "status": "success",
+      "source": "openalex",
+      "chars": 1503,
+      "ts": "2026-05-24T11:31:55"
+    },
+    "https://doi.org/10.1145/3539597.3570466": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1136,
+      "ts": "2026-05-24T11:31:59"
+    },
+    "https://doi.org/10.1145/3539597.3570446": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1617,
+      "ts": "2026-05-24T11:32:02"
+    },
+    "https://doi.org/10.1145/3539597.3570388": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1455,
+      "ts": "2026-05-24T11:32:06"
+    },
+    "https://doi.org/10.1145/3539597.3570377": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1998,
+      "ts": "2026-05-24T11:32:09"
+    },
+    "https://doi.org/10.1145/3539597.3570379": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1811,
+      "ts": "2026-05-24T11:32:14"
+    },
+    "https://doi.org/10.1145/3539597.3570410": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1681,
+      "ts": "2026-05-24T11:32:17"
+    },
+    "https://doi.org/10.1145/3539597.3570420": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1779,
+      "ts": "2026-05-24T11:32:20"
+    },
+    "https://doi.org/10.1145/3539597.3570463": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2083,
+      "ts": "2026-05-24T11:32:25"
+    },
+    "https://doi.org/10.1145/3539597.3570391": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1517,
+      "ts": "2026-05-24T11:32:27"
+    },
+    "https://doi.org/10.1145/3539597.3570411": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1512,
+      "ts": "2026-05-24T11:32:31"
+    },
+    "https://doi.org/10.1145/3539597.3570364": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1285,
+      "ts": "2026-05-24T11:32:34"
+    },
+    "https://doi.org/10.1145/3539597.3570475": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1427,
+      "ts": "2026-05-24T11:32:37"
+    },
+    "https://doi.org/10.1145/3539597.3570398": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1373,
+      "ts": "2026-05-24T11:32:40"
+    },
+    "https://doi.org/10.1145/3539597.3570428": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1367,
+      "ts": "2026-05-24T11:32:43"
+    },
+    "https://doi.org/10.1145/3539597.3570481": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1262,
+      "ts": "2026-05-24T11:32:46"
+    },
+    "https://doi.org/10.1145/3539597.3570431": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 911,
+      "ts": "2026-05-24T11:32:50"
+    },
+    "https://doi.org/10.1145/3539597.3570373": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1849,
+      "ts": "2026-05-24T11:32:53"
+    },
+    "https://doi.org/10.1145/3539597.3570389": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1371,
+      "ts": "2026-05-24T11:32:56"
+    },
+    "https://doi.org/10.1145/3539597.3570380": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1415,
+      "ts": "2026-05-24T11:32:59"
+    },
+    "https://doi.org/10.1145/3539597.3570408": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1367,
+      "ts": "2026-05-24T11:33:02"
+    },
+    "https://doi.org/10.1145/3539597.3570414": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1418,
+      "ts": "2026-05-24T11:33:04"
+    },
+    "https://doi.org/10.1145/3539597.3570482": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1435,
+      "ts": "2026-05-24T11:33:07"
+    },
+    "https://doi.org/10.1145/3539597.3570483": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1693,
+      "ts": "2026-05-24T11:33:09"
+    },
+    "https://doi.org/10.1145/3539597.3570484": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1456,
+      "ts": "2026-05-24T11:33:11"
+    },
+    "https://doi.org/10.1145/3539597.3570432": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1401,
+      "ts": "2026-05-24T11:33:15"
+    },
+    "https://doi.org/10.1145/3539597.3570447": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1227,
+      "ts": "2026-05-24T11:33:18"
+    },
+    "https://doi.org/10.1145/3539597.3570402": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1023,
+      "ts": "2026-05-24T11:33:21"
+    },
+    "https://doi.org/10.1145/3539597.3570412": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1681,
+      "ts": "2026-05-24T11:33:23"
+    },
+    "https://doi.org/10.1145/3539597.3570422": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1632,
+      "ts": "2026-05-24T11:33:26"
+    },
+    "https://doi.org/10.1145/3539597.3570456": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1002,
+      "ts": "2026-05-24T11:33:29"
+    },
+    "https://doi.org/10.1145/3539597.3570369": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1613,
+      "ts": "2026-05-24T11:33:42"
+    },
+    "https://doi.org/10.1145/3539597.3570378": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1585,
+      "ts": "2026-05-24T11:33:44"
+    },
+    "https://doi.org/10.1145/3539597.3570407": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1648,
+      "ts": "2026-05-24T11:33:47"
+    },
+    "https://doi.org/10.1145/3539597.3570421": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1642,
+      "ts": "2026-05-24T11:33:50"
+    },
+    "https://doi.org/10.1145/3539597.3570429": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1895,
+      "ts": "2026-05-24T11:33:52"
+    },
+    "https://doi.org/10.1145/3539597.3570436": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1591,
+      "ts": "2026-05-24T11:33:56"
+    },
+    "https://doi.org/10.1145/3539597.3570472": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1350,
+      "ts": "2026-05-24T11:33:58"
+    },
+    "https://doi.org/10.1145/3539597.3570385": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1494,
+      "ts": "2026-05-24T11:34:01"
+    },
+    "https://doi.org/10.1145/3539597.3570409": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1596,
+      "ts": "2026-05-24T11:34:03"
+    },
+    "https://doi.org/10.1145/3539597.3570387": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1483,
+      "ts": "2026-05-24T11:34:06"
+    },
+    "https://doi.org/10.1145/3539597.3570403": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2252,
+      "ts": "2026-05-24T11:34:10"
+    },
+    "https://doi.org/10.1145/3539597.3570450": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1614,
+      "ts": "2026-05-24T11:34:13"
+    },
+    "https://doi.org/10.1145/3539597.3570384": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1636,
+      "ts": "2026-05-24T11:34:15"
+    },
+    "https://doi.org/10.1145/3539597.3570390": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1369,
+      "ts": "2026-05-24T11:34:18"
+    },
+    "https://doi.org/10.1145/3539597.3570433": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1240,
+      "ts": "2026-05-24T11:34:21"
+    },
+    "https://doi.org/10.1145/3539597.3570441": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1294,
+      "ts": "2026-05-24T11:34:25"
+    },
+    "https://doi.org/10.1145/3539597.3570448": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1527,
+      "ts": "2026-05-24T11:34:28"
+    },
+    "https://doi.org/10.1145/3539597.3570416": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 944,
+      "ts": "2026-05-24T11:34:30"
+    },
+    "https://doi.org/10.1145/3539597.3570406": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1411,
+      "ts": "2026-05-24T11:34:34"
+    },
+    "https://doi.org/10.1145/3539597.3570465": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1268,
+      "ts": "2026-05-24T11:34:36"
+    },
+    "https://doi.org/10.1145/3539597.3570404": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1715,
+      "ts": "2026-05-24T11:34:39"
+    },
+    "https://doi.org/10.1145/3539597.3570370": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1510,
+      "ts": "2026-05-24T11:34:43"
+    },
+    "https://doi.org/10.1145/3539597.3570372": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1502,
+      "ts": "2026-05-24T11:34:45"
+    },
+    "https://doi.org/10.1145/3539597.3570394": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1485,
+      "ts": "2026-05-24T11:34:48"
+    },
+    "https://doi.org/10.1145/3539597.3570413": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1693,
+      "ts": "2026-05-24T11:34:53"
+    },
+    "https://doi.org/10.1145/3539597.3570418": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 934,
+      "ts": "2026-05-24T11:34:55"
+    },
+    "https://doi.org/10.1145/3539597.3570425": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 967,
+      "ts": "2026-05-24T11:34:57"
+    },
+    "https://doi.org/10.1145/3539597.3570427": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1452,
+      "ts": "2026-05-24T11:35:00"
+    },
+    "https://doi.org/10.1145/3539597.3570440": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1293,
+      "ts": "2026-05-24T11:35:03"
+    },
+    "https://doi.org/10.1145/3539597.3570462": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1082,
+      "ts": "2026-05-24T11:35:05"
+    },
+    "https://doi.org/10.1145/3539597.3570368": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1552,
+      "ts": "2026-05-24T11:35:08"
+    },
+    "https://doi.org/10.1145/3539597.3570444": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1230,
+      "ts": "2026-05-24T11:35:10"
+    },
+    "https://doi.org/10.1145/3539597.3570395": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1651,
+      "ts": "2026-05-24T11:35:12"
+    },
+    "https://doi.org/10.1145/3539597.3570382": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1754,
+      "ts": "2026-05-24T11:35:16"
+    },
+    "https://doi.org/10.1145/3539597.3570393": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1453,
+      "ts": "2026-05-24T11:35:20"
+    },
+    "https://doi.org/10.1145/3539597.3570458": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1442,
+      "ts": "2026-05-24T11:35:23"
+    },
+    "https://doi.org/10.1145/3539597.3570459": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1287,
+      "ts": "2026-05-24T11:35:26"
+    },
+    "https://doi.org/10.1145/3539597.3570469": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1628,
+      "ts": "2026-05-24T11:35:29"
+    },
+    "https://doi.org/10.1145/3539597.3570489": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1739,
+      "ts": "2026-05-24T11:35:34"
+    },
+    "https://doi.org/10.1145/3539597.3570485": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1240,
+      "ts": "2026-05-24T11:35:38"
+    },
+    "https://doi.org/10.1145/3539597.3570452": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1066,
+      "ts": "2026-05-24T11:35:40"
+    },
+    "https://doi.org/10.1145/3539597.3570477": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1344,
+      "ts": "2026-05-24T11:35:43"
+    },
+    "https://doi.org/10.1145/3539597.3570470": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1460,
+      "ts": "2026-05-24T11:35:46"
+    },
+    "https://doi.org/10.1145/3539597.3570383": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1344,
+      "ts": "2026-05-24T11:35:49"
+    },
+    "https://doi.org/10.1145/3539597.3570405": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1441,
+      "ts": "2026-05-24T11:35:51"
+    },
+    "https://doi.org/10.1145/3539597.3570488": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1677,
+      "ts": "2026-05-24T11:35:54"
+    },
+    "https://doi.org/10.1145/3539597.3570415": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1193,
+      "ts": "2026-05-24T11:35:56"
+    },
+    "https://doi.org/10.1145/3539597.3570460": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1476,
+      "ts": "2026-05-24T11:35:58"
+    },
+    "https://doi.org/10.1145/3539597.3570423": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1254,
+      "ts": "2026-05-24T11:36:02"
+    },
+    "https://doi.org/10.1145/3539597.3570468": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1590,
+      "ts": "2026-05-24T11:36:05"
+    },
+    "https://doi.org/10.1145/3539597.3570365": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1549,
+      "ts": "2026-05-24T11:36:08"
+    },
+    "https://doi.org/10.1145/3539597.3570381": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1373,
+      "ts": "2026-05-24T11:36:12"
+    },
+    "https://doi.org/10.1145/3539597.3570399": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1297,
+      "ts": "2026-05-24T11:36:14"
+    },
+    "https://doi.org/10.1145/3539597.3570479": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1290,
+      "ts": "2026-05-24T11:36:16"
+    },
+    "https://doi.org/10.1145/3539597.3570397": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1903,
+      "ts": "2026-05-24T11:36:19"
+    },
+    "https://doi.org/10.1145/3539597.3570476": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2021,
+      "ts": "2026-05-24T11:36:21"
+    },
+    "https://doi.org/10.1145/3539597.3570437": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1289,
+      "ts": "2026-05-24T11:36:24"
+    },
+    "https://doi.org/10.1145/3539597.3573027": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 824,
+      "ts": "2026-05-24T11:36:26"
+    },
+    "https://doi.org/10.1145/3539597.3573022": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 807,
+      "ts": "2026-05-24T11:36:29"
+    },
+    "https://doi.org/10.1145/3539597.3573023": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1626,
+      "ts": "2026-05-24T11:36:33"
+    },
+    "https://doi.org/10.1145/3539597.3573032": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 522,
+      "ts": "2026-05-24T11:36:42"
+    },
+    "https://doi.org/10.1145/3539597.3573033": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 757,
+      "ts": "2026-05-24T11:36:45"
+    },
+    "https://doi.org/10.1145/3539597.3573034": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1153,
+      "ts": "2026-05-24T11:36:49"
+    },
+    "https://doi.org/10.1145/3539597.3573036": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1020,
+      "ts": "2026-05-24T11:36:51"
+    },
+    "https://doi.org/10.1145/3539597.3573037": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 949,
+      "ts": "2026-05-24T11:37:08"
+    },
+    "https://doi.org/10.1145/3539597.3573039": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 821,
+      "ts": "2026-05-24T11:37:10"
+    },
+    "https://doi.org/10.1145/3539597.3573041": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1246,
+      "ts": "2026-05-24T11:37:13"
+    },
+    "https://doi.org/10.1145/3539597.3573029": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 562,
+      "ts": "2026-05-24T11:37:15"
+    },
+    "https://doi.org/10.1145/3539597.3573043": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 704,
+      "ts": "2026-05-24T11:37:18"
+    },
+    "https://doi.org/10.1145/3539597.3573021": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1016,
+      "ts": "2026-05-24T11:37:20"
+    },
+    "https://doi.org/10.1145/3539597.3573024": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1153,
+      "ts": "2026-05-24T11:37:23"
+    },
+    "https://doi.org/10.1145/3539597.3573025": {
+      "status": "success",
+      "source": "openalex",
+      "chars": 581,
+      "ts": "2026-05-24T11:37:49"
+    },
+    "https://doi.org/10.1145/3539597.3573026": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 933,
+      "ts": "2026-05-24T11:37:50"
+    },
+    "https://doi.org/10.1145/3539597.3573028": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 895,
+      "ts": "2026-05-24T11:37:53"
+    },
+    "https://doi.org/10.1145/3539597.3573042": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 899,
+      "ts": "2026-05-24T11:37:57"
+    },
+    "https://doi.org/10.1145/3539597.3573030": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1484,
+      "ts": "2026-05-24T11:38:00"
+    },
+    "https://doi.org/10.1145/3539597.3573031": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 476,
+      "ts": "2026-05-24T11:38:03"
+    },
+    "https://doi.org/10.1145/3539597.3573035": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1024,
+      "ts": "2026-05-24T11:38:06"
+    },
+    "https://doi.org/10.1145/3539597.3573038": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 948,
+      "ts": "2026-05-24T11:38:08"
+    },
+    "https://doi.org/10.1145/3539597.3573040": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 883,
+      "ts": "2026-05-24T11:38:11"
+    },
+    "https://doi.org/10.1145/3539597.3572985": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 972,
+      "ts": "2026-05-24T11:38:13"
+    },
+    "https://doi.org/10.1145/3539597.3572986": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1226,
+      "ts": "2026-05-24T11:38:16"
+    },
+    "https://doi.org/10.1145/3539597.3572987": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 604,
+      "ts": "2026-05-24T11:38:18"
+    },
+    "https://doi.org/10.1145/3539597.3572988": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 754,
+      "ts": "2026-05-24T11:38:21"
+    },
+    "https://doi.org/10.1145/3539597.3572989": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 928,
+      "ts": "2026-05-24T11:38:23"
+    },
+    "https://doi.org/10.1145/3539597.3572990": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 785,
+      "ts": "2026-05-24T11:38:27"
+    },
+    "https://doi.org/10.1145/3539597.3572991": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1051,
+      "ts": "2026-05-24T11:38:30"
+    },
+    "https://doi.org/10.1145/3539597.3572992": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 944,
+      "ts": "2026-05-24T11:38:32"
+    },
+    "https://doi.org/10.1145/3539597.3572720": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 750,
+      "ts": "2026-05-24T11:38:34"
+    },
+    "https://doi.org/10.1145/3539597.3572721": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1433,
+      "ts": "2026-05-24T11:38:37"
+    },
+    "https://doi.org/10.1145/3539597.3572722": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 986,
+      "ts": "2026-05-24T11:38:39"
+    },
+    "https://doi.org/10.1145/3539597.3572723": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1437,
+      "ts": "2026-05-24T11:38:42"
+    },
+    "https://doi.org/10.1145/3539597.3572724": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1110,
+      "ts": "2026-05-24T11:38:44"
+    },
+    "https://doi.org/10.1145/3539597.3572725": {
+      "status": "failed",
+      "attempts": 1,
+      "ts": "2026-05-24T11:39:41"
+    },
+    "https://doi.org/10.1145/3539597.3572726": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1514,
+      "ts": "2026-05-24T11:39:42"
+    },
+    "https://doi.org/10.1145/3539597.3572727": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1054,
+      "ts": "2026-05-24T11:39:47"
+    },
+    "https://doi.org/10.1145/3539597.3572728": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1150,
+      "ts": "2026-05-24T11:39:50"
+    },
+    "https://doi.org/10.1145/3539597.3572729": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1661,
+      "ts": "2026-05-24T11:39:54"
+    },
+    "https://doi.org/10.1145/3539597.3572703": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1045,
+      "ts": "2026-05-24T11:39:57"
+    },
+    "https://doi.org/10.1145/3539597.3572704": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 609,
+      "ts": "2026-05-24T11:40:00"
+    },
+    "https://doi.org/10.1145/3539597.3572706": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1263,
+      "ts": "2026-05-24T11:40:04"
+    },
+    "https://doi.org/10.1145/3539597.3572705": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1124,
+      "ts": "2026-05-24T11:40:07"
+    },
+    "https://doi.org/10.1145/3539597.3572702": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 785,
+      "ts": "2026-05-24T11:40:10"
+    },
+    "https://doi.org/10.1145/3539597.3575784": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 734,
+      "ts": "2026-05-24T11:40:13"
+    },
+    "https://doi.org/10.1145/3539597.3575787": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 798,
+      "ts": "2026-05-24T11:40:16"
+    },
+    "https://doi.org/10.1145/3539597.3575791": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1319,
+      "ts": "2026-05-24T11:40:19"
+    },
+    "https://doi.org/10.1145/3539597.3575789": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 443,
+      "ts": "2026-05-24T11:40:22"
+    },
+    "https://doi.org/10.1145/3539597.3575788": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1531,
+      "ts": "2026-05-24T11:40:26"
+    },
+    "https://doi.org/10.1145/3539597.3575793": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1391,
+      "ts": "2026-05-24T11:40:28"
+    },
+    "https://doi.org/10.1145/3539597.3575785": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 973,
+      "ts": "2026-05-24T11:40:31"
+    },
+    "https://doi.org/10.1145/3539597.3575792": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1200,
+      "ts": "2026-05-24T11:40:35"
+    },
+    "https://doi.org/10.1145/3539597.3575786": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2346,
+      "ts": "2026-05-24T11:40:38"
+    },
+    "https://doi.org/10.1145/3539597.3575790": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1490,
+      "ts": "2026-05-24T11:40:42"
+    },
+    "https://doi.org/10.1145/3539597.3575779": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1642,
+      "ts": "2026-05-24T11:40:44"
+    },
+    "https://doi.org/10.1145/3539597.3575781": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 904,
+      "ts": "2026-05-24T11:40:46"
+    },
+    "https://doi.org/10.1145/3539597.3575782": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 959,
+      "ts": "2026-05-24T11:40:49"
+    },
+    "https://doi.org/10.1145/3539597.3575783": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1244,
+      "ts": "2026-05-24T11:40:53"
+    },
+    "https://doi.org/10.1145/3539597.3575780": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1029,
+      "ts": "2026-05-24T11:40:58"
+    },
+    "https://doi.org/10.1145/3514221": {
+      "status": "failed",
+      "attempts": 1,
+      "ts": "2026-05-24T11:41:22"
+    },
+    "https://doi.org/10.1145/3514221.3523274": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 572,
+      "ts": "2026-05-24T11:41:26"
+    },
+    "https://doi.org/10.1145/3514221.3523275": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2502,
+      "ts": "2026-05-24T11:41:28"
+    },
+    "https://doi.org/10.1145/3514221.3523276": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1287,
+      "ts": "2026-05-24T11:41:33"
+    },
+    "https://doi.org/10.1145/3514221.3526120": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1120,
+      "ts": "2026-05-24T11:41:35"
+    },
+    "https://doi.org/10.1145/3514221.3517879": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 928,
+      "ts": "2026-05-24T11:41:38"
+    },
+    "https://doi.org/10.1145/3514221.3526171": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1055,
+      "ts": "2026-05-24T11:41:40"
+    },
+    "https://doi.org/10.1145/3514221.3526135": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1455,
+      "ts": "2026-05-24T11:41:43"
+    },
+    "https://doi.org/10.1145/3514221.3526172": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1601,
+      "ts": "2026-05-24T11:41:45"
+    },
+    "https://doi.org/10.1145/3514221.3517827": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 759,
+      "ts": "2026-05-24T11:41:51"
+    },
+    "https://doi.org/10.1145/3514221.3526125": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1370,
+      "ts": "2026-05-24T11:41:53"
+    },
+    "https://doi.org/10.1145/3514221.3517830": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 857,
+      "ts": "2026-05-24T11:41:56"
+    },
+    "https://doi.org/10.1145/3514221.3517871": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1530,
+      "ts": "2026-05-24T11:41:58"
+    },
+    "https://doi.org/10.1145/3514221.3517889": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1517,
+      "ts": "2026-05-24T11:42:00"
+    },
+    "https://doi.org/10.1145/3514221.3517901": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1753,
+      "ts": "2026-05-24T11:42:04"
+    },
+    "https://doi.org/10.1145/3514221.3526163": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1691,
+      "ts": "2026-05-24T11:42:06"
+    },
+    "https://doi.org/10.1145/3514221.3526174": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 897,
+      "ts": "2026-05-24T11:42:10"
+    },
+    "https://doi.org/10.1145/3514221.3517843": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1291,
+      "ts": "2026-05-24T11:42:13"
+    },
+    "https://doi.org/10.1145/3514221.3517878": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1083,
+      "ts": "2026-05-24T11:42:15"
+    },
+    "https://doi.org/10.1145/3514221.3517864": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1523,
+      "ts": "2026-05-24T11:42:18"
+    },
+    "https://doi.org/10.1145/3514221.3517841": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1484,
+      "ts": "2026-05-24T11:42:21"
+    },
+    "https://doi.org/10.1145/3514221.3517886": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1246,
+      "ts": "2026-05-24T11:42:24"
+    },
+    "https://doi.org/10.1145/3514221.3517865": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1527,
+      "ts": "2026-05-24T11:42:28"
+    },
+    "https://doi.org/10.1145/3514221.3517909": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1114,
+      "ts": "2026-05-24T11:42:32"
+    },
+    "https://doi.org/10.1145/3514221.3526177": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1157,
+      "ts": "2026-05-24T11:42:34"
+    },
+    "https://doi.org/10.1145/3514221.3517833": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1071,
+      "ts": "2026-05-24T11:42:36"
+    },
+    "https://doi.org/10.1145/3514221.3517866": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1148,
+      "ts": "2026-05-24T11:42:52"
+    },
+    "https://doi.org/10.1145/3514221.3526146": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1400,
+      "ts": "2026-05-24T11:42:54"
+    },
+    "https://doi.org/10.1145/3514221.3526136": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 953,
+      "ts": "2026-05-24T11:42:57"
+    },
+    "https://doi.org/10.1145/3514221.3517898": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1400,
+      "ts": "2026-05-24T11:42:59"
+    },
+    "https://doi.org/10.1145/3514221.3517849": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1550,
+      "ts": "2026-05-24T11:43:02"
+    },
+    "https://doi.org/10.1145/3514221.3526165": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1317,
+      "ts": "2026-05-24T11:43:07"
+    },
+    "https://doi.org/10.1145/3514221.3517854": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1594,
+      "ts": "2026-05-24T11:43:10"
+    },
+    "https://doi.org/10.1145/3514221.3526147": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1330,
+      "ts": "2026-05-24T11:43:13"
+    },
+    "https://doi.org/10.1145/3514221.3517872": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1247,
+      "ts": "2026-05-24T11:43:16"
+    },
+    "https://doi.org/10.1145/3514221.3517870": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1382,
+      "ts": "2026-05-24T11:43:18"
+    },
+    "https://doi.org/10.1145/3514221.3517903": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1469,
+      "ts": "2026-05-24T11:43:21"
+    },
+    "https://doi.org/10.1145/3514221.3517902": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1332,
+      "ts": "2026-05-24T11:43:24"
+    },
+    "https://doi.org/10.1145/3514221.3517860": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1137,
+      "ts": "2026-05-24T11:43:26"
+    },
+    "https://doi.org/10.1145/3514221.3517907": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1462,
+      "ts": "2026-05-24T11:43:29"
+    },
+    "https://doi.org/10.1145/3514221.3517846": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1622,
+      "ts": "2026-05-24T11:43:32"
+    },
+    "https://doi.org/10.1145/3514221.3517908": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1636,
+      "ts": "2026-05-24T11:43:34"
+    },
+    "https://doi.org/10.1145/3514221.3517900": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1356,
+      "ts": "2026-05-24T11:43:37"
+    },
+    "https://doi.org/10.1145/3514221.3526181": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1355,
+      "ts": "2026-05-24T11:43:39"
+    },
+    "https://doi.org/10.1145/3514221.3517857": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1545,
+      "ts": "2026-05-24T11:43:43"
+    },
+    "https://doi.org/10.1145/3514221.3517877": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1300,
+      "ts": "2026-05-24T11:43:45"
+    },
+    "https://doi.org/10.1145/3514221.3526141": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1500,
+      "ts": "2026-05-24T11:43:50"
+    },
+    "https://doi.org/10.1145/3514221.3526142": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1434,
+      "ts": "2026-05-24T11:43:52"
+    },
+    "https://doi.org/10.1145/3514221.3517845": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1717,
+      "ts": "2026-05-24T11:43:57"
+    },
+    "https://doi.org/10.1145/3514221.3526176": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1467,
+      "ts": "2026-05-24T11:44:01"
+    },
+    "https://doi.org/10.1145/3514221.3517882": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1457,
+      "ts": "2026-05-24T11:44:04"
+    },
+    "https://doi.org/10.1145/3514221.3526152": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1272,
+      "ts": "2026-05-24T11:44:08"
+    },
+    "https://doi.org/10.1145/3514221.3526157": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1787,
+      "ts": "2026-05-24T11:44:11"
+    },
+    "https://doi.org/10.1145/3514221.3526187": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1128,
+      "ts": "2026-05-24T11:44:14"
+    },
+    "https://doi.org/10.1145/3514221.3517834": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1148,
+      "ts": "2026-05-24T11:44:16"
+    },
+    "https://doi.org/10.1145/3514221.3526161": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 906,
+      "ts": "2026-05-24T11:44:18"
+    },
+    "https://doi.org/10.1145/3514221.3517852": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1518,
+      "ts": "2026-05-24T11:44:21"
+    },
+    "https://doi.org/10.1145/3514221.3526160": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1262,
+      "ts": "2026-05-24T11:44:24"
+    },
+    "https://doi.org/10.1145/3514221.3517844": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1111,
+      "ts": "2026-05-24T11:44:27"
+    },
+    "https://doi.org/10.1145/3514221.3526162": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1538,
+      "ts": "2026-05-24T11:44:29"
+    },
+    "https://doi.org/10.1145/3514221.3517861": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2330,
+      "ts": "2026-05-24T11:44:31"
+    },
+    "https://doi.org/10.1145/3514221.3517868": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1386,
+      "ts": "2026-05-24T11:44:33"
+    },
+    "https://doi.org/10.1145/3514221.3526151": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1178,
+      "ts": "2026-05-24T11:44:36"
+    },
+    "https://doi.org/10.1145/3514221.3517837": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1025,
+      "ts": "2026-05-24T11:44:39"
+    },
+    "https://doi.org/10.1145/3514221.3517847": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1441,
+      "ts": "2026-05-24T11:44:41"
+    },
+    "https://doi.org/10.1145/3514221.3517859": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1616,
+      "ts": "2026-05-24T11:44:44"
+    },
+    "https://doi.org/10.1145/3514221.3526137": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1570,
+      "ts": "2026-05-24T11:44:50"
+    },
+    "https://doi.org/10.1145/3514221.3517874": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1235,
+      "ts": "2026-05-24T11:44:55"
+    },
+    "https://doi.org/10.1145/3514221.3517880": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1497,
+      "ts": "2026-05-24T11:44:58"
+    },
+    "https://doi.org/10.1145/3514221.3517885": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 902,
+      "ts": "2026-05-24T11:45:01"
+    },
+    "https://doi.org/10.1145/3514221.3526155": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1667,
+      "ts": "2026-05-24T11:45:04"
+    },
+    "https://doi.org/10.1145/3514221.3517896": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1138,
+      "ts": "2026-05-24T11:45:06"
+    },
+    "https://doi.org/10.1145/3514221.3526156": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1612,
+      "ts": "2026-05-24T11:45:10"
+    },
+    "https://doi.org/10.1145/3514221.3526188": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1501,
+      "ts": "2026-05-24T11:45:12"
+    },
+    "https://doi.org/10.1145/3514221.3517876": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 627,
+      "ts": "2026-05-24T11:45:14"
+    },
+    "https://doi.org/10.1145/3514221.3517911": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1075,
+      "ts": "2026-05-24T11:45:17"
+    },
+    "https://doi.org/10.1145/3514221.3517824": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1338,
+      "ts": "2026-05-24T11:45:19"
+    },
+    "https://doi.org/10.1145/3514221.3517884": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1509,
+      "ts": "2026-05-24T11:45:22"
+    },
+    "https://doi.org/10.1145/3514221.3526190": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1247,
+      "ts": "2026-05-24T11:45:25"
+    },
+    "https://doi.org/10.1145/3514221.3517826": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1420,
+      "ts": "2026-05-24T11:45:27"
+    },
+    "https://doi.org/10.1145/3514221.3517829": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1318,
+      "ts": "2026-05-24T11:45:29"
+    },
+    "https://doi.org/10.1145/3514221.3526123": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1319,
+      "ts": "2026-05-24T11:45:33"
+    },
+    "https://doi.org/10.1145/3514221.3526145": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1087,
+      "ts": "2026-05-24T11:45:37"
+    },
+    "https://doi.org/10.1145/3514221.3526170": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1054,
+      "ts": "2026-05-24T11:45:39"
+    },
+    "https://doi.org/10.1145/3514221.3526178": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2077,
+      "ts": "2026-05-24T11:45:44"
+    },
+    "https://doi.org/10.1145/3514221.3517863": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1656,
+      "ts": "2026-05-24T11:45:47"
+    },
+    "https://doi.org/10.1145/3514221.3526183": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1188,
+      "ts": "2026-05-24T11:45:49"
+    },
+    "https://doi.org/10.1145/3514221.3526129": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1016,
+      "ts": "2026-05-24T11:45:51"
+    },
+    "https://doi.org/10.1145/3514221.3517890": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1045,
+      "ts": "2026-05-24T11:45:54"
+    },
+    "https://doi.org/10.1145/3514221.3526154": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1239,
+      "ts": "2026-05-24T11:45:57"
+    },
+    "https://doi.org/10.1145/3514221.3526158": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1158,
+      "ts": "2026-05-24T11:45:59"
+    },
+    "https://doi.org/10.1145/3514221.3526184": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1226,
+      "ts": "2026-05-24T11:46:02"
+    },
+    "https://doi.org/10.1145/3514221.3517873": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 965,
+      "ts": "2026-05-24T11:46:04"
+    },
+    "https://doi.org/10.1145/3514221.3517836": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1379,
+      "ts": "2026-05-24T11:46:06"
+    },
+    "https://doi.org/10.1145/3514221.3526150": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1471,
+      "ts": "2026-05-24T11:46:09"
+    },
+    "https://doi.org/10.1145/3514221.3526134": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1280,
+      "ts": "2026-05-24T11:46:12"
+    },
+    "https://doi.org/10.1145/3514221.3526127": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1472,
+      "ts": "2026-05-24T11:46:16"
+    },
+    "https://doi.org/10.1145/3514221.3517867": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1482,
+      "ts": "2026-05-24T11:46:18"
+    },
+    "https://doi.org/10.1145/3514221.3517856": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1237,
+      "ts": "2026-05-24T11:46:21"
+    },
+    "https://doi.org/10.1145/3514221.3517869": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1059,
+      "ts": "2026-05-24T11:46:25"
+    },
+    "https://doi.org/10.1145/3514221.3517825": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 548,
+      "ts": "2026-05-24T11:46:28"
+    },
+    "https://doi.org/10.1145/3514221.3526132": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1330,
+      "ts": "2026-05-24T11:46:31"
+    },
+    "https://doi.org/10.1145/3514221.3526126": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1494,
+      "ts": "2026-05-24T11:46:34"
+    },
+    "https://doi.org/10.1145/3514221.3526175": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1770,
+      "ts": "2026-05-24T11:46:37"
+    },
+    "https://doi.org/10.1145/3514221.3517853": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 969,
+      "ts": "2026-05-24T11:46:39"
+    },
+    "https://doi.org/10.1145/3514221.3526164": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1965,
+      "ts": "2026-05-24T11:46:41"
+    },
+    "https://doi.org/10.1145/3514221.3517913": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1706,
+      "ts": "2026-05-24T11:46:44"
+    },
+    "https://doi.org/10.1145/3514221.3517851": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1069,
+      "ts": "2026-05-24T11:46:46"
+    },
+    "https://doi.org/10.1145/3514221.3517906": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1102,
+      "ts": "2026-05-24T11:46:49"
+    },
+    "https://doi.org/10.1145/3514221.3517891": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1097,
+      "ts": "2026-05-24T11:46:52"
+    },
+    "https://doi.org/10.1145/3514221.3526131": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1066,
+      "ts": "2026-05-24T11:46:55"
+    },
+    "https://doi.org/10.1145/3514221.3526128": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1051,
+      "ts": "2026-05-24T11:46:58"
+    },
+    "https://doi.org/10.1145/3514221.3526168": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1429,
+      "ts": "2026-05-24T11:47:01"
+    },
+    "https://doi.org/10.1145/3514221.3526138": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 841,
+      "ts": "2026-05-24T11:47:04"
+    },
+    "https://doi.org/10.1145/3514221.3517912": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1498,
+      "ts": "2026-05-24T11:47:07"
+    },
+    "https://doi.org/10.1145/3514221.3517850": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1359,
+      "ts": "2026-05-24T11:47:09"
+    },
+    "https://doi.org/10.1145/3514221.3526149": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1176,
+      "ts": "2026-05-24T11:47:12"
+    },
+    "https://doi.org/10.1145/3514221.3526122": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1194,
+      "ts": "2026-05-24T11:47:16"
+    },
+    "https://doi.org/10.1145/3514221.3526121": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1331,
+      "ts": "2026-05-24T11:47:20"
+    },
+    "https://doi.org/10.1145/3514221.3517894": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 3034,
+      "ts": "2026-05-24T11:47:23"
+    },
+    "https://doi.org/10.1145/3514221.3526130": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1440,
+      "ts": "2026-05-24T11:47:25"
+    },
+    "https://doi.org/10.1145/3514221.3526167": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1013,
+      "ts": "2026-05-24T11:47:28"
+    },
+    "https://doi.org/10.1145/3514221.3517888": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1651,
+      "ts": "2026-05-24T11:47:31"
+    },
+    "https://doi.org/10.1145/3514221.3526166": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1285,
+      "ts": "2026-05-24T11:47:35"
+    },
+    "https://doi.org/10.1145/3514221.3517862": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1117,
+      "ts": "2026-05-24T11:47:38"
+    },
+    "https://doi.org/10.1145/3514221.3517858": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1070,
+      "ts": "2026-05-24T11:47:41"
+    },
+    "https://doi.org/10.1145/3514221.3517855": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1042,
+      "ts": "2026-05-24T11:47:43"
+    },
+    "https://doi.org/10.1145/3514221.3526124": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1441,
+      "ts": "2026-05-24T11:47:46"
+    },
+    "https://doi.org/10.1145/3514221.3517904": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1463,
+      "ts": "2026-05-24T11:47:50"
+    },
+    "https://doi.org/10.1145/3514221.3517842": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1270,
+      "ts": "2026-05-24T11:47:52"
+    },
+    "https://doi.org/10.1145/3514221.3526148": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1417,
+      "ts": "2026-05-24T11:47:55"
+    },
+    "https://doi.org/10.1145/3514221.3517848": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1367,
+      "ts": "2026-05-24T11:47:57"
+    },
+    "https://doi.org/10.1145/3514221.3517892": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1238,
+      "ts": "2026-05-24T11:48:00"
+    },
+    "https://doi.org/10.1145/3514221.3517910": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1324,
+      "ts": "2026-05-24T11:48:04"
+    },
+    "https://doi.org/10.1145/3514221.3517905": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1525,
+      "ts": "2026-05-24T11:48:06"
+    },
+    "https://doi.org/10.1145/3514221.3526173": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1755,
+      "ts": "2026-05-24T11:48:08"
+    },
+    "https://doi.org/10.1145/3514221.3517895": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 852,
+      "ts": "2026-05-24T11:48:12"
+    },
+    "https://doi.org/10.1145/3514221.3517840": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1601,
+      "ts": "2026-05-24T11:48:14"
+    },
+    "https://doi.org/10.1145/3514221.3526179": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 874,
+      "ts": "2026-05-24T11:48:18"
+    },
+    "https://doi.org/10.1145/3514221.3517897": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1676,
+      "ts": "2026-05-24T11:48:20"
+    },
+    "https://doi.org/10.1145/3514221.3526144": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1139,
+      "ts": "2026-05-24T11:48:23"
+    },
+    "https://doi.org/10.1145/3514221.3526186": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1197,
+      "ts": "2026-05-24T11:48:25"
+    },
+    "https://doi.org/10.1145/3514221.3517838": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1858,
+      "ts": "2026-05-24T11:48:28"
+    },
+    "https://doi.org/10.1145/3514221.3517875": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1334,
+      "ts": "2026-05-24T11:48:31"
+    },
+    "https://doi.org/10.1145/3514221.3517881": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1689,
+      "ts": "2026-05-24T11:48:34"
+    },
+    "https://doi.org/10.1145/3514221.3517883": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 985,
+      "ts": "2026-05-24T11:48:37"
+    },
+    "https://doi.org/10.1145/3514221.3526143": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1563,
+      "ts": "2026-05-24T11:48:43"
+    },
+    "https://doi.org/10.1145/3514221.3526140": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1241,
+      "ts": "2026-05-24T11:48:47"
+    },
+    "https://doi.org/10.1145/3514221.3517887": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1221,
+      "ts": "2026-05-24T11:48:50"
+    },
+    "https://doi.org/10.1145/3514221.3517893": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1120,
+      "ts": "2026-05-24T11:48:53"
+    },
+    "https://doi.org/10.1145/3514221.3517835": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1771,
+      "ts": "2026-05-24T11:48:56"
+    },
+    "https://doi.org/10.1145/3514221.3517899": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1669,
+      "ts": "2026-05-24T11:48:59"
+    },
+    "https://doi.org/10.1145/3514221.3517823": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1035,
+      "ts": "2026-05-24T11:49:02"
+    },
+    "https://doi.org/10.1145/3514221.3517831": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1651,
+      "ts": "2026-05-24T11:49:04"
+    },
+    "https://doi.org/10.1145/3514221.3526182": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1010,
+      "ts": "2026-05-24T11:49:09"
+    },
+    "https://doi.org/10.1145/3514221.3526042": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1153,
+      "ts": "2026-05-24T11:49:11"
+    },
+    "https://doi.org/10.1145/3514221.3526043": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1332,
+      "ts": "2026-05-24T11:49:13"
+    },
+    "https://doi.org/10.1145/3514221.3526056": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1377,
+      "ts": "2026-05-24T11:49:16"
+    },
+    "https://doi.org/10.1145/3514221.3526045": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1815,
+      "ts": "2026-05-24T11:49:19"
+    },
+    "https://doi.org/10.1145/3514221.3526046": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1382,
+      "ts": "2026-05-24T11:49:22"
+    },
+    "https://doi.org/10.1145/3514221.3526047": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1461,
+      "ts": "2026-05-24T11:49:26"
+    },
+    "https://doi.org/10.1145/3514221.3526057": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1091,
+      "ts": "2026-05-24T11:49:29"
+    },
+    "https://doi.org/10.1145/3514221.3526049": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 706,
+      "ts": "2026-05-24T11:49:32"
+    },
+    "https://doi.org/10.1145/3514221.3526050": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1201,
+      "ts": "2026-05-24T11:49:36"
+    },
+    "https://doi.org/10.1145/3514221.3526051": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1289,
+      "ts": "2026-05-24T11:49:40"
+    },
+    "https://doi.org/10.1145/3514221.3526052": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 990,
+      "ts": "2026-05-24T11:49:43"
+    },
+    "https://doi.org/10.1145/3514221.3526053": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1300,
+      "ts": "2026-05-24T11:49:45"
+    },
+    "https://doi.org/10.1145/3514221.3526054": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1067,
+      "ts": "2026-05-24T11:49:49"
+    },
+    "https://doi.org/10.1145/3514221.3526055": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2518,
+      "ts": "2026-05-24T11:49:52"
+    },
+    "https://doi.org/10.1145/3514221.3520150": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1331,
+      "ts": "2026-05-24T11:49:55"
+    },
+    "https://doi.org/10.1145/3514221.3520151": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 873,
+      "ts": "2026-05-24T11:49:57"
+    },
+    "https://doi.org/10.1145/3514221.3520152": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 943,
+      "ts": "2026-05-24T11:50:00"
+    },
+    "https://doi.org/10.1145/3514221.3520153": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 144,
+      "ts": "2026-05-24T11:50:03"
+    },
+    "https://doi.org/10.1145/3514221.3520154": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 585,
+      "ts": "2026-05-24T11:50:05"
+    },
+    "https://doi.org/10.1145/3514221.3520172": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1037,
+      "ts": "2026-05-24T11:50:07"
+    },
+    "https://doi.org/10.1145/3514221.3520156": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 924,
+      "ts": "2026-05-24T11:50:11"
+    },
+    "https://doi.org/10.1145/3514221.3520157": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 809,
+      "ts": "2026-05-24T11:50:14"
+    },
+    "https://doi.org/10.1145/3514221.3520158": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1645,
+      "ts": "2026-05-24T11:50:16"
+    },
+    "https://doi.org/10.1145/3514221.3520175": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 746,
+      "ts": "2026-05-24T11:50:19"
+    },
+    "https://doi.org/10.1145/3514221.3520174": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 952,
+      "ts": "2026-05-24T11:50:21"
+    },
+    "https://doi.org/10.1145/3514221.3520161": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1326,
+      "ts": "2026-05-24T11:50:24"
+    },
+    "https://doi.org/10.1145/3514221.3520162": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1248,
+      "ts": "2026-05-24T11:50:27"
+    },
+    "https://doi.org/10.1145/3514221.3520163": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 853,
+      "ts": "2026-05-24T11:50:29"
+    },
+    "https://doi.org/10.1145/3514221.3520164": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1153,
+      "ts": "2026-05-24T11:50:32"
+    },
+    "https://doi.org/10.1145/3514221.3520165": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1316,
+      "ts": "2026-05-24T11:50:34"
+    },
+    "https://doi.org/10.1145/3514221.3520166": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1064,
+      "ts": "2026-05-24T11:50:38"
+    },
+    "https://doi.org/10.1145/3514221.3520167": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 989,
+      "ts": "2026-05-24T11:50:42"
+    },
+    "https://doi.org/10.1145/3514221.3520168": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 718,
+      "ts": "2026-05-24T11:50:45"
+    },
+    "https://doi.org/10.1145/3514221.3520169": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1688,
+      "ts": "2026-05-24T11:50:47"
+    },
+    "https://doi.org/10.1145/3514221.3520170": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 960,
+      "ts": "2026-05-24T11:50:50"
+    },
+    "https://doi.org/10.1145/3514221.3520171": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 804,
+      "ts": "2026-05-24T11:50:52"
+    },
+    "https://doi.org/10.1145/3514221.3522562": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1201,
+      "ts": "2026-05-24T11:50:55"
+    },
+    "https://doi.org/10.1145/3514221.3522561": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1000,
+      "ts": "2026-05-24T11:50:58"
+    },
+    "https://doi.org/10.1145/3514221.3522564": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 864,
+      "ts": "2026-05-24T11:51:02"
+    },
+    "https://doi.org/10.1145/3514221.3522567": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1054,
+      "ts": "2026-05-24T11:51:06"
+    },
+    "https://doi.org/10.1145/3514221.3522566": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 635,
+      "ts": "2026-05-24T11:51:08"
+    },
+    "https://doi.org/10.1145/3514221.3522568": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 973,
+      "ts": "2026-05-24T11:51:11"
+    },
+    "https://doi.org/10.1145/3514221.3522565": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1303,
+      "ts": "2026-05-24T11:51:14"
+    },
+    "https://doi.org/10.1145/3514221.3522563": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1554,
+      "ts": "2026-05-24T11:51:17"
+    },
+    "https://doi.org/10.1145/3514221.3528414": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 234,
+      "ts": "2026-05-24T11:51:19"
+    },
+    "https://doi.org/10.1145/3514221.3528413": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 727,
+      "ts": "2026-05-24T11:51:21"
+    },
+    "https://doi.org/10.1145/3514221.3520247": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 500,
+      "ts": "2026-05-24T11:51:25"
+    },
+    "https://doi.org/10.1145/3514221.3520248": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 702,
+      "ts": "2026-05-24T11:51:28"
+    },
+    "https://doi.org/10.1145/3514221.3520245": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 495,
+      "ts": "2026-05-24T11:51:30"
+    },
+    "https://doi.org/10.1145/3514221.3520257": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 906,
+      "ts": "2026-05-24T11:51:34"
+    },
+    "https://doi.org/10.1145/3514221.3520255": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1017,
+      "ts": "2026-05-24T11:51:37"
+    },
+    "https://doi.org/10.1145/3514221.3520250": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 587,
+      "ts": "2026-05-24T11:51:42"
+    },
+    "https://doi.org/10.1145/3514221.3520254": {
+      "status": "success",
+      "source": "openalex",
+      "chars": 654,
+      "ts": "2026-05-24T11:53:16"
+    },
+    "https://doi.org/10.1145/3514221.3520253": {
+      "status": "success",
+      "source": "openalex",
+      "chars": 864,
+      "ts": "2026-05-24T11:53:34"
+    },
+    "https://doi.org/10.1145/3514221.3520249": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 759,
+      "ts": "2026-05-24T11:53:37"
+    },
+    "https://doi.org/10.1145/3514221.3520252": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 856,
+      "ts": "2026-05-24T11:53:42"
+    },
+    "https://doi.org/10.1145/3514221.3520256": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 746,
+      "ts": "2026-05-24T11:53:44"
+    },
+    "https://doi.org/10.1145/3514221.3520251": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1072,
+      "ts": "2026-05-24T11:53:47"
+    },
+    "https://doi.org/10.1145/3514221.3520244": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 465,
+      "ts": "2026-05-24T11:53:50"
+    },
+    "https://doi.org/10.1145/3514221.3524072": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 885,
+      "ts": "2026-05-24T11:53:53"
+    },
+    "https://doi.org/10.1145/3514221.3524073": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 774,
+      "ts": "2026-05-24T11:53:56"
+    },
+    "https://doi.org/10.1145/3514221.3524074": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 463,
+      "ts": "2026-05-24T11:53:58"
+    },
+    "https://doi.org/10.1145/3514221.3524075": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1033,
+      "ts": "2026-05-24T11:54:01"
+    },
+    "https://doi.org/10.1145/3514221.3524076": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 812,
+      "ts": "2026-05-24T11:54:04"
+    },
+    "https://doi.org/10.1145/3514221.3524077": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 713,
+      "ts": "2026-05-24T11:54:08"
+    },
+    "https://doi.org/10.1145/3514221.3524078": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 671,
+      "ts": "2026-05-24T11:54:12"
+    },
+    "https://doi.org/10.1145/3514221.3524079": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 699,
+      "ts": "2026-05-24T11:54:16"
+    },
+    "https://doi.org/10.1145/3514221.3524080": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 641,
+      "ts": "2026-05-24T11:54:20"
+    },
+    "https://doi.org/10.1145/3448016": {
+      "status": "failed",
+      "attempts": 1,
+      "ts": "2026-05-24T11:54:27"
+    },
+    "https://doi.org/10.1145/3448016.3460535": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1024,
+      "ts": "2026-05-24T11:54:28"
+    },
+    "https://doi.org/10.1145/3448016.3460534": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 664,
+      "ts": "2026-05-24T11:54:30"
+    },
+    "https://doi.org/10.1145/3448016.3461471": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 736,
+      "ts": "2026-05-24T11:54:33"
+    },
+    "https://doi.org/10.1145/3448016.3461670": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1628,
+      "ts": "2026-05-24T11:54:36"
+    },
+    "https://doi.org/10.1145/3448016.3461469": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 4188,
+      "ts": "2026-05-24T11:54:38"
+    },
+    "https://doi.org/10.1145/3448016.3461470": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1995,
+      "ts": "2026-05-24T11:54:42"
+    },
+    "https://doi.org/10.1145/3448016.3457318": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1278,
+      "ts": "2026-05-24T11:54:45"
+    },
+    "https://doi.org/10.1145/3448016.3457311": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1575,
+      "ts": "2026-05-24T11:54:48"
+    },
+    "https://doi.org/10.1145/3448016.3452782": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1215,
+      "ts": "2026-05-24T11:54:50"
+    },
+    "https://doi.org/10.1145/3448016.3452781": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1341,
+      "ts": "2026-05-24T11:54:53"
+    },
+    "https://doi.org/10.1145/3448016.3457259": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 868,
+      "ts": "2026-05-24T11:54:56"
+    },
+    "https://doi.org/10.1145/3448016.3452807": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1113,
+      "ts": "2026-05-24T11:54:59"
+    },
+    "https://doi.org/10.1145/3448016.3457312": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 897,
+      "ts": "2026-05-24T11:55:02"
+    },
+    "https://doi.org/10.1145/3448016.3457256": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1030,
+      "ts": "2026-05-24T11:55:06"
+    },
+    "https://doi.org/10.1145/3448016.3457301": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1109,
+      "ts": "2026-05-24T11:55:10"
+    },
+    "https://doi.org/10.1145/3448016.3457315": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 672,
+      "ts": "2026-05-24T11:55:12"
+    },
+    "https://doi.org/10.1145/3448016.3457303": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1165,
+      "ts": "2026-05-24T11:55:15"
+    },
+    "https://doi.org/10.1145/3448016.3459244": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 863,
+      "ts": "2026-05-24T11:55:18"
+    },
+    "https://doi.org/10.1145/3448016.3452831": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1535,
+      "ts": "2026-05-24T11:55:21"
+    },
+    "https://doi.org/10.1145/3448016.3453687": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1169,
+      "ts": "2026-05-24T11:55:24"
+    },
+    "https://doi.org/10.1145/3448016.3452842": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 956,
+      "ts": "2026-05-24T11:55:26"
+    },
+    "https://doi.org/10.1145/3448016.3457321": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1907,
+      "ts": "2026-05-24T11:55:28"
+    },
+    "https://doi.org/10.1145/3448016.3452823": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1399,
+      "ts": "2026-05-24T11:55:30"
+    },
+    "https://doi.org/10.1145/3448016.3452834": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1530,
+      "ts": "2026-05-24T11:55:34"
+    },
+    "https://doi.org/10.1145/3448016.3459241": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1813,
+      "ts": "2026-05-24T11:55:37"
+    },
+    "https://doi.org/10.1145/3448016.3452784": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1247,
+      "ts": "2026-05-24T11:55:42"
+    },
+    "https://doi.org/10.1145/3448016.3457255": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1360,
+      "ts": "2026-05-24T11:55:45"
+    },
+    "https://doi.org/10.1145/3448016.3452803": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1937,
+      "ts": "2026-05-24T11:55:48"
+    },
+    "https://doi.org/10.1145/3448016.3452843": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1343,
+      "ts": "2026-05-24T11:55:53"
+    },
+    "https://doi.org/10.1145/3448016.3459245": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 653,
+      "ts": "2026-05-24T11:55:56"
+    },
+    "https://doi.org/10.1145/3448016.3457316": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1057,
+      "ts": "2026-05-24T11:56:00"
+    },
+    "https://doi.org/10.1145/3448016.3457292": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1279,
+      "ts": "2026-05-24T11:56:03"
+    },
+    "https://doi.org/10.1145/3448016.3457327": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1302,
+      "ts": "2026-05-24T11:56:06"
+    },
+    "https://doi.org/10.1145/3448016.3457273": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1034,
+      "ts": "2026-05-24T11:56:08"
+    },
+    "https://doi.org/10.1145/3448016.3452835": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1680,
+      "ts": "2026-05-24T11:56:12"
+    },
+    "https://doi.org/10.1145/3448016.3457307": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1383,
+      "ts": "2026-05-24T11:56:16"
+    },
+    "https://doi.org/10.1145/3448016.3457249": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1010,
+      "ts": "2026-05-24T11:56:19"
+    },
+    "https://doi.org/10.1145/3448016.3457270": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1794,
+      "ts": "2026-05-24T11:56:24"
+    },
+    "https://doi.org/10.1145/3448016.3452813": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1128,
+      "ts": "2026-05-24T11:56:28"
+    },
+    "https://doi.org/10.1145/3448016.3452809": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 977,
+      "ts": "2026-05-24T11:56:30"
+    },
+    "https://doi.org/10.1145/3448016.3452796": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1103,
+      "ts": "2026-05-24T11:56:32"
+    },
+    "https://doi.org/10.1145/3448016.3452797": {
+      "status": "success",
+      "source": "openalex",
+      "chars": 1181,
+      "ts": "2026-05-24T11:56:38"
+    },
+    "https://doi.org/10.1145/3448016.3452794": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1216,
+      "ts": "2026-05-24T11:56:39"
+    },
+    "https://doi.org/10.1145/3448016.3452795": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1878,
+      "ts": "2026-05-24T11:56:42"
+    },
+    "https://doi.org/10.1145/3448016.3457263": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1494,
+      "ts": "2026-05-24T11:56:45"
+    },
+    "https://doi.org/10.1145/3448016.3452791": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 714,
+      "ts": "2026-05-24T11:56:49"
+    },
+    "https://doi.org/10.1145/3448016.3457548": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 2011,
+      "ts": "2026-05-24T11:56:53"
+    },
+    "https://doi.org/10.1145/3448016.3452798": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1115,
+      "ts": "2026-05-24T11:56:55"
+    },
+    "https://doi.org/10.1145/3448016.3457241": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1229,
+      "ts": "2026-05-24T11:56:59"
+    },
+    "https://doi.org/10.1145/3448016.3458455": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1753,
+      "ts": "2026-05-24T11:57:03"
+    },
+    "https://doi.org/10.1145/3448016.3457305": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1322,
+      "ts": "2026-05-24T11:57:05"
+    },
+    "https://doi.org/10.1145/3448016.3457287": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1155,
+      "ts": "2026-05-24T11:57:10"
+    },
+    "https://doi.org/10.1145/3448016.3457242": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1458,
+      "ts": "2026-05-24T11:57:13"
+    },
+    "https://doi.org/10.1145/3448016.3452836": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 694,
+      "ts": "2026-05-24T11:57:16"
+    },
+    "https://doi.org/10.1145/3448016.3452800": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 833,
+      "ts": "2026-05-24T11:57:19"
+    },
+    "https://doi.org/10.1145/3448016.3457294": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1240,
+      "ts": "2026-05-24T11:57:23"
+    },
+    "https://doi.org/10.1145/3448016.3459243": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 910,
+      "ts": "2026-05-24T11:57:27"
+    },
+    "https://doi.org/10.1145/3448016.3459242": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 769,
+      "ts": "2026-05-24T11:57:30"
+    },
+    "https://doi.org/10.1145/3448016.3452805": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1123,
+      "ts": "2026-05-24T11:57:33"
+    },
+    "https://doi.org/10.1145/3448016.3457264": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 920,
+      "ts": "2026-05-24T11:57:35"
+    },
+    "https://doi.org/10.1145/3448016.3457272": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 715,
+      "ts": "2026-05-24T11:57:39"
+    },
+    "https://doi.org/10.1145/3448016.3452815": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 934,
+      "ts": "2026-05-24T11:57:41"
+    },
+    "https://doi.org/10.1145/3448016.3457297": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 937,
+      "ts": "2026-05-24T11:57:43"
+    },
+    "https://doi.org/10.1145/3448016.3457251": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1122,
+      "ts": "2026-05-24T11:57:47"
+    },
+    "https://doi.org/10.1145/3448016.3457240": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1497,
+      "ts": "2026-05-24T11:57:50"
+    },
+    "https://doi.org/10.1145/3448016.3457285": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1771,
+      "ts": "2026-05-24T11:57:53"
+    },
+    "https://doi.org/10.1145/3448016.3452840": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1607,
+      "ts": "2026-05-24T11:57:55"
+    },
+    "https://doi.org/10.1145/3448016.3457266": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1422,
+      "ts": "2026-05-24T11:57:57"
+    },
+    "https://doi.org/10.1145/3448016.3452833": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1485,
+      "ts": "2026-05-24T11:57:59"
+    },
+    "https://doi.org/10.1145/3448016.3457283": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1345,
+      "ts": "2026-05-24T11:58:03"
+    },
+    "https://doi.org/10.1145/3448016.3459240": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1140,
+      "ts": "2026-05-24T11:58:05"
+    },
+    "https://doi.org/10.1145/3448016.3457319": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1526,
+      "ts": "2026-05-24T11:58:07"
+    },
+    "https://doi.org/10.1145/3448016.3457309": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1104,
+      "ts": "2026-05-24T11:58:09"
+    },
+    "https://doi.org/10.1145/3448016.3457547": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1570,
+      "ts": "2026-05-24T11:58:13"
+    },
+    "https://doi.org/10.1145/3448016.3457252": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 888,
+      "ts": "2026-05-24T11:58:16"
+    },
+    "https://doi.org/10.1145/3448016.3457265": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1002,
+      "ts": "2026-05-24T11:58:18"
+    },
+    "https://doi.org/10.1145/3448016.3452783": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1354,
+      "ts": "2026-05-24T11:58:21"
+    },
+    "https://doi.org/10.1145/3448016.3452780": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1087,
+      "ts": "2026-05-24T11:58:23"
+    },
+    "https://doi.org/10.1145/3448016.3457246": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1516,
+      "ts": "2026-05-24T11:58:27"
+    },
+    "https://doi.org/10.1145/3448016.3457243": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1568,
+      "ts": "2026-05-24T11:58:29"
+    },
+    "https://doi.org/10.1145/3448016.3457288": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 904,
+      "ts": "2026-05-24T11:58:32"
+    },
+    "https://doi.org/10.1145/3448016.3457546": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1196,
+      "ts": "2026-05-24T11:58:34"
+    },
+    "https://doi.org/10.1145/3448016.3457245": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1885,
+      "ts": "2026-05-24T11:58:36"
+    },
+    "https://doi.org/10.1145/3448016.3452786": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 935,
+      "ts": "2026-05-24T11:58:40"
+    },
+    "https://doi.org/10.1145/3448016.3459246": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 713,
+      "ts": "2026-05-24T11:58:43"
+    },
+    "https://doi.org/10.1145/3448016.3452824": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1840,
+      "ts": "2026-05-24T11:58:46"
+    },
+    "https://doi.org/10.1145/3448016.3452829": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1166,
+      "ts": "2026-05-24T11:58:49"
+    },
+    "https://doi.org/10.1145/3448016.3458454": {
+      "status": "success",
+      "source": "semanticscholar",
+      "chars": 1125,
+      "ts": "2026-05-24T11:58:53"
+    }
+  }
+}
